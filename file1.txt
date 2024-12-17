@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-main1
-=======
 blahblahblah
->>>>>>> branch-a
 makingstuffup
